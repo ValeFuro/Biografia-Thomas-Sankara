@@ -1,2 +1,26 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width"
+</head>
+  <body>
+    <h1>Biografia di Thomas Sankara</h1>
+    <hr/>
+    <p>Thomas Sankara è stato un politico e rivoluzionario burkinabé nato nel 1949.</p>
+
+    <p>Ha svolto un ruolo chiave come presidente del Burkina Faso, promuovendo l'uguaglianza sociale e combattendo la corruzione.</p>
+    <br/>
+
+    <img src="https://images.app.goo.gl/DexCQDBphaqJBADB7"/>
+
+    <p>Purtroppo, la sua vita è stata interrotta nel 1987 da un colpo di stato, ma il suo impatto positivo è durato nel tempo.</p>
+
+    <p>Questo sito è dedicato a commemorare la vita e le realizzazioni straordinarie di Thomas Sankara.</p>
+
+
+
+  </body>
+  </html>
+
